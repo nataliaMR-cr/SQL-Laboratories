@@ -24,5 +24,6 @@ Each lab applies SQL queries to explore datasets, identify patterns, answer busi
 ## 📂 Labs
 
 Each "Lab" focuses on a different dataset and business scenario, using SQL to investigate specific questions and communicate findings.
+(Lab Union de tablas)[https://nataliamr-cr.github.io/SQL-Laboratories/Lab%20-%20SQL%20JOIN%20-%20Union%20de%20tablas.html]
 
 More labs will be added as I continue developing my SQL and Data Analytics skills.
